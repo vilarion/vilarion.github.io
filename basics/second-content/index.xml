@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Second Content on Illarion Doc</title>
-    <link>https://vilarion.github.io/basics/second-content/</link>
+    <link>vilarion.github.io/basics/second-content/</link>
     <description>Recent content in Second Content on Illarion Doc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 21 Nov 2020 02:38:54 +0100</lastBuildDate><atom:link href="https://vilarion.github.io/basics/second-content/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2020 02:38:54 +0100</lastBuildDate><atom:link href="vilarion.github.io/basics/second-content/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
